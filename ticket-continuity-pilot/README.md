@@ -31,10 +31,11 @@ to human interpretation.
 1. Executive summary
 2. Unresolved issues list
 3. Customer sentiment assessment
-4. Handoff summary for next rep
-5. Recommended next actions
-6. Safe to close confidence score
-7. Escalation risk level
+4. Generate Manager Briefing button
+5. Handoff summary for next rep
+6. Recommended next actions
+7. Safe to close confidence score
+8. Escalation risk level
 
 ![Output](screenshots/tc_1.png)
 ![Output](screenshots/tc_2.png)
