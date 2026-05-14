@@ -5,8 +5,8 @@ API_KEY          = "YOUR_API_KEY_HERE"
 GMAIL_OAUTH_TOKEN = "YOUR_GMAIL_OAUTH_TOKEN"
 GMAIL_MCP_URL    = "GMAIL_MCP_URL_HERE"
 MODEL            = "claude-sonnet-4-20250514"
-APP_TITLE        = "Executive Inbox"
-APP_SUBTITLE     = "AI-powered urgency ranking for the President's inbox"
+APP_TITLE        = "Executive Inbox Intelligence"
+APP_SUBTITLE     = "AI-powered urgency ranking tool for executive inboxes."
 # ─────────────────────────────────────────────────────────────────────────────
 
 from gmail import fetch_emails
