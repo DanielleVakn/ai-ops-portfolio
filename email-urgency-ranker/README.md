@@ -25,6 +25,15 @@ user 90% of the effort of composing a reply from scratch.
 - Reduces missed critical emails by surfacing them at the top
 - Suggested replies eliminate blank-page friction for responses
 
+![Output](screenshots/email_ranker1.png)
+![Output](screenshots/email_ranker2.png)
+![Output](screenshots/email_ranker3.png)
+![Output](screenshots/email_ranker4.png)
+![Output](screenshots/email_ranker5.png)
+![Output](screenshots/email_ranker6.png)
+![Output](screenshots/email_ranker7.png)
+![Output](screenshots/email_ranker8.png)
+
 ## Future Enhancements
 - Refresh token handling so the session never expires mid-demo
 - Composio integration to eliminate manual OAuth token setup
@@ -32,10 +41,8 @@ user 90% of the effort of composing a reply from scratch.
 - Urgency trend over time — flag senders who are always urgent
 - Slack alert for any email scored 9 or 10
 
-These were descoped because the core value — a ranked, 
-color-coded inbox — is fully demonstrable without them, 
-and adding direct send would have pushed build time past 
-the 40-minute constraint.
+These were descoped because the core value - a ranked, 
+color-coded inbox — is fully demonstrable without them.
 
 ## Stack
 - Python + Streamlit
