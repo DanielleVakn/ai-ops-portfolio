@@ -8,7 +8,7 @@ There is no consistent way to assess whether a ticket is
 actually safe to close.
 
 ## Why I Built It This Way
-Streamlit was chosen for its built-in UI components — 
+Streamlit was chosen for its built-in UI components-
 cards, color-coded sections, and expanders make structured 
 output readable at a glance without any custom CSS.
 
