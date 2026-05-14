@@ -36,6 +36,11 @@ to human interpretation.
 6. Safe to close confidence score
 7. Escalation risk level
 
+![Output](screenshots/tc_1.png)
+![Output](screenshots/tc_2.png)
+![Output](screenshots/tc_3.png)
+![Output](screenshots/tc_4.png)
+
 ## If I Had More Time
 - Zendesk / Intercom / any other CRM direct integration to pull tickets 
   automatically rather than paste
