@@ -1,2 +1,2 @@
 # ai-ops-portfolio
-AI operations tools
+AI powered tools and automated flows
