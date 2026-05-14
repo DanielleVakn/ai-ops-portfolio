@@ -1,6 +1,6 @@
 # Automated Job Search 
 
-An automated job intelligence and opportunity discovery system that identifies relevant open roles across startups and tech companies of interest, operating in NYC.
+An automated job intelligence system that identifies relevant open roles across 437 startups and tech companies of interest, operating in NYC.
 
 This project was built to eliminate the repetitive and fragmented workflow of manually checking dozens of startup websites for relevant opportunities. Instead of browsing company-by-company, the system automatically aggregates, filters, ranks, and presents actionable job opportunities in a searchable dashboard.
 
