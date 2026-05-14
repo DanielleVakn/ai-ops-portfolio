@@ -24,6 +24,11 @@ Gemini Flash parses intent → identifies agent + Gmail search query
 Gmail API executes the action at scale (handles pagination,
 batches up to 1000 emails per API call)
 
+![Output](screenshots/email-assistant1.png)
+![Output](screenshots/email-assistant2.png)
+![Output](screenshots/email-assistant3.png)
+![Output](screenshots/email-assistant4.png)
+
 ## Stack
 - Python
 - Google Gemini 2.5 Flash — intent parsing and Gmail query generation
