@@ -66,6 +66,7 @@ The system transforms fragmented company websites into a centralized decision-su
 - Improves operational efficiency and speed
 
 ---
+![output](screenshots/jobscraper.png)
 
 # Workflow Architecture
 
@@ -82,4 +83,3 @@ Relevance Filtering & Ranking
         ↓
 Interactive HTML Dashboard
 
-![output](screenshots/jobscraper.png)
