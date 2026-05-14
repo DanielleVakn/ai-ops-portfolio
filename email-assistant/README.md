@@ -27,7 +27,6 @@ batches up to 1000 emails per API call)
 ![Output](screenshots/email-assistant1.png)
 ![Output](screenshots/email-assistant2.png)
 ![Output](screenshots/email-assistant3.png)
-![Output](screenshots/email-assistant4.png)
 
 ## Stack
 - Python
