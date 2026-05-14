@@ -36,7 +36,7 @@ The system transforms fragmented company websites into a centralized decision-su
 # Key Features
 
 ## Automated Company Discovery
-- Pulls startup/company information from a centralized database
+- Pulls company information from a centralized database
 - Processes large company lists automatically
 
 ## Career Page Detection
@@ -81,3 +81,5 @@ Job Scraping & Extraction
 Relevance Filtering & Ranking
         ↓
 Interactive HTML Dashboard
+
+![output](screenshots/jobscraper.png)
