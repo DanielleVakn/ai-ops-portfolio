@@ -38,10 +38,11 @@ to human interpretation.
 
 ![Output](screenshots/tc_1.png)
 ![Output](screenshots/tc_2.png)
+![Output](screenshots/manager_briefing.png)
 ![Output](screenshots/tc_3.png)
 ![Output](screenshots/tc_4.png)
 
-## If I Had More Time
+## Future Enhancements
 - Zendesk / Intercom / any other CRM direct integration to pull tickets 
   automatically rather than paste
 - Bulk processing — analyze entire queue at once
