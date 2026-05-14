@@ -25,7 +25,7 @@ user 90% of the effort of composing a reply from scratch.
 - Reduces missed critical emails by surfacing them at the top
 - Suggested replies eliminate blank-page friction for responses
 
-## If I Had More Time
+## Future Enhancements
 - Refresh token handling so the session never expires mid-demo
 - Composio integration to eliminate manual OAuth token setup
 - Direct send via Gmail API instead of mailto: links
