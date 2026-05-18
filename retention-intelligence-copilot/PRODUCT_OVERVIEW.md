@@ -121,6 +121,16 @@ For **production**, the next phases would be:
 - Proactive alerts (churn risk flagged in real-time, not weekly)
 - Multi-tenant SaaS (white-label for other subscription companies)
 
+![Output](screenshots/retention_copilot1.png)
+![Output](screenshots/retention_copilot2.png)
+![Output](screenshots/retention_copilot3.png)
+![Output](screenshots/retention_copilot4.png)
+![Output](screenshots/retention_copilot5.png)
+![Output](screenshots/retention_copilot6.png)
+![Output](screenshots/retention_copilot7.png)
+![Output](screenshots/retention_copilot8.png)
+![Output](screenshots/retention_copilot9.png)
+![Output](screenshots/retention_copilot10.png)
 ## Technical Decisions
 
 | Decision | Rationale |
@@ -132,19 +142,4 @@ For **production**, the next phases would be:
 | **Dark theme** | Executive aesthetic, reduces eye strain for long sessions, modern feel |
 | **Single file for UI** | Low cognitive load, Streamlit handles reactivity, no state management |
 
-![Output](screenshots/retention_copilot1.png)
-![Output](screenshots/retention_copilot2.png)
-![Output](screenshots/retention_copilot3.png)
-![Output](screenshots/retention_copilot4.png)
-![Output](screenshots/retention_copilot5.png)
-![Output](screenshots/retention_copilot6.png)
-![Output](screenshots/retention_copilot7.png)
-![Output](screenshots/retention_copilot8.png)
-![Output](screenshots/retention_copilot9.png)
-![Output](screenshots/retention_copilot10.png)
 
-
-
-
-└── PRODUCT_OVERVIEW.md       # This file
-```
