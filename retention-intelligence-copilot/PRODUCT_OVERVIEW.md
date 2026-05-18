@@ -132,39 +132,19 @@ For **production**, the next phases would be:
 | **Dark theme** | Executive aesthetic, reduces eye strain for long sessions, modern feel |
 | **Single file for UI** | Low cognitive load, Streamlit handles reactivity, no state management |
 
-## Running the App
+![Output](screenshots/retention_copilot1.png)
+![Output](screenshots/retention_copilot2.png)
+![Output](screenshots/retention_copilot3.png)
+![Output](screenshots/retention_copilot4.png)
+![Output](screenshots/retention_copilot5.png)
+![Output](screenshots/retention_copilot6.png)
+![Output](screenshots/retention_copilot7.png)
+![Output](screenshots/retention_copilot8.png)
+![Output](screenshots/retention_copilot9.png)
+![Output](screenshots/retention_copilot10.png)
 
-```bash
-# Setup
-cd retention-intelligence-copilot
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
 
-# Launch
-streamlit run app.py
 
-# Optional: Add Claude
-cp .env.example .env
-# edit .env: ANTHROPIC_API_KEY=sk-ant-...
-streamlit run app.py  # toggle Claude in sidebar
-```
 
-App is live at `http://localhost:8501` (no login, no infra).
-
-## File Structure
-
-```
-.
-├── app.py                    # Main Streamlit app (530 lines)
-├── src/
-│   ├── data_generator.py     # Mock data factory (375 lines)
-│   ├── analytics.py          # Pandas analytics (425 lines)
-│   ├── ai_engine.py          # Claude + fallback (525 lines)
-│   └── ui_components.py      # Styled components (285 lines)
-├── requirements.txt
-├── .env.example
-├── README.md                 # Technical guide
-├── QUICKSTART.md             # Getting started
 └── PRODUCT_OVERVIEW.md       # This file
 ```
