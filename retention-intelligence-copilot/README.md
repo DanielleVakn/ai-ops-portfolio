@@ -198,6 +198,16 @@ Recoverable with interventions: $264K
 ```
 
 ---
+![Output](screenshots/retention_copilot_1.png)
+![Output](screenshots/retention_copilot_2.png)
+![Output](screenshots/retention_copilot_3.png)
+![Output](screenshots/retention_copilot_4.png)
+![Output](screenshots/retention_copilot_5.png)
+![Output](screenshots/retention_copilot_6.png)
+![Output](screenshots/retention_copilot_7.png)
+![Output](screenshots/retention_copilot_8.png)
+![Output](screenshots/retention_copilot_9.png)
+![Output](screenshots/retention_copilot_10.png)
 
 ## Getting Started
 
